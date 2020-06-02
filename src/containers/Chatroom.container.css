@@ -1,0 +1,23 @@
+.Chatroom-container {
+    border: 1px solid #c4c4c4;
+    clear: both;
+    overflow: hidden;
+}
+
+.RoomList-container {
+    background: #f8f8f8 none repeat scroll 0 0;
+    float: left;
+    overflow: hidden;
+    border-right: 1px solid #c4c4c4;
+}
+
+.MessageList-container {
+    float: left;
+    padding: 30px 15px 0 0px;
+}
+
+.SendMessageForm-container {
+    border-top: 1px solid #c4c4c4;
+    position: relative;
+    padding: 0px 15px 0px 25px !important;
+}
